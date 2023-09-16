@@ -29,6 +29,7 @@ There are some functional concepts I tried to implement in this project, includi
 
 ## Changelog
 
+<li> 17 September 2023, <i> Contact Delete Function
 <li> 16 September 2023, <i> Contact Diplay
 
 
