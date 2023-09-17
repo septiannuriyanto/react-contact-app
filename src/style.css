@@ -39,6 +39,13 @@
     width: 64px;
     border-radius: 50%;
   }
+
+  .contact-item__image img:hover {
+    width: 64px;
+    border-radius: 20%;
+    transition: 300ms all ease;
+    filter: opacity(0.7)
+  }
    
   .contact-item__body {
     margin-left: 8px;
